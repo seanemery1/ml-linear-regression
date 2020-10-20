@@ -2,7 +2,7 @@
 Pending...
 
 ## SETUP INSTRUCTIONS
-run runLinearRegression to generate data and graphs using MatLab's built in linear regression and custom (from-scratch) linear regression.
+1) run runLinearRegression to generate data and graphs using MatLab's built in linear regression and custom (from-scratch) linear regression.
 
 ## FUNCTIONS
 1) cleanDataFeatSelect.m\
