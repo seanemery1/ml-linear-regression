@@ -11,7 +11,7 @@ cleans data (ie. seperating categorical data into dummy variables) and removes b
 2) gradDescent.m
 from-scratch, custom gradient descent algorithm
 
-3). cost.m
+3) cost.m
 sub function that calculates the cost (for gradient descent)
 
 4) gradDescentLasso
