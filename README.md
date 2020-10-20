@@ -6,19 +6,19 @@ Pending...
 
 ## FUNCTIONS
 1) cleanDataFeatSelect.m
-cleans data (ie. seperating categorical data into dummy variables) and removes bad features
+- cleans data (ie. seperating categorical data into dummy variables) and removes bad features
 
 2) gradDescent.m
 from-scratch, custom gradient descent algorithm
 
 3) cost.m
-sub function that calculates the cost (for gradient descent)
+- sub function that calculates the cost (for gradient descent)
 
 4) gradDescentLasso
-from-scratch, custom gradient descent with lasso algorithm for feature selection
+- from-scratch, custom gradient descent with lasso algorithm for feature selection
 
 5) lassoInterpretor.m
-processes the outputs of MatLab's lasso function into a table with remaining features (and their headers)
+- processes the outputs of MatLab's lasso function into a table with remaining features (and their headers)
 
 6) regressXY.m
-compares and graphs the relationship between X and Y (ie. two features)
+- compares and graphs the relationship between X and Y (ie. two features)
