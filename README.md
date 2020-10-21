@@ -1,5 +1,5 @@
 ## PROJECT INFORMATION
-Pending...
+Specify the information which you want me to add here
 
 ## SETUP INSTRUCTIONS
 1) run runLinearRegression to generate data and graphs using MatLab's built in linear regression and custom (from-scratch) linear regression.
